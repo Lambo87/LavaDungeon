@@ -392,5 +392,9 @@ Assets {
       VirtualFolderPath: "Nodes"
       PlatformAssetType: 5
     }
+    Folders {
+      VirtualFolderPath: "Volcano materials"
+      PlatformAssetType: 13
+    }
   }
 }
