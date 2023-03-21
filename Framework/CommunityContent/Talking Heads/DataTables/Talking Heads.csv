@@ -1,0 +1,6 @@
+"Key[String]","Name[String]","Message[String]","RandomMessages[Asset Reference]","Actor[Asset Reference]","PositionOffset[Vector3]","Stance[String]","Animation[String]","AnimationDelay[Float]","AnimationLoop[Bool]","Audio[Asset Reference]","DisplayDuration[Float]","PanelWidth[Float]","PanelHeight[Float]"
+"Karl Laugh","Prince TEDATHOR","You think you can beat me {name}?
+
+I am too powerful for you. I can not be beat.","0BADBADBADBADBAD","3BCAAB6806DD0733","0.000000,0.000000,0.000000","","unarmed_laugh","1.0","False","D437791B460656BB","7.0","0.0","0.0"
+"Wolfy Growl","Wolfy","*Growl*","0BADBADBADBADBAD","3B321D5F8054F76F","-124.625999,0.000000,38.657001","","unarmed_bite","0.5","False","0BADBADBADBADBAD","0.0","0.0","0.0"
+"Welcome","Kamil","Welcome {name}, I hope you are having a wonderful day.","7692DA51311DB42A","2078637D74F91AC3","0.000000,0.000000,0.000000","","","0.0","False","0BADBADBADBADBAD","0.0","0.0","0.0"

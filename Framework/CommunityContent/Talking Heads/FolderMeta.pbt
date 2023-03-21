@@ -1,0 +1,83 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "0b001a9075574b3689e996043e8f96cc"
+  OwnerAccountId: "bd602d5201b04b3fbf7be10f59c8f974"
+  OwnerName: "CoreAcademy"
+  Version: "1.12.0"
+}
+AssetIdsOriginalToNew {
+  key: 1014417823171064538
+  value: 4265504093085431663
+}
+AssetIdsOriginalToNew {
+  key: 1335606734815499093
+  value: 5572887461066920798
+}
+AssetIdsOriginalToNew {
+  key: 2919844941463075107
+  value: 77957790101501544
+}
+AssetIdsOriginalToNew {
+  key: 3189892245763487147
+  value: 15138134344960486036
+}
+AssetIdsOriginalToNew {
+  key: 3596275951803263108
+  value: 15291824217805706939
+}
+AssetIdsOriginalToNew {
+  key: 4096104390300429872
+  value: 17278390765359129136
+}
+AssetIdsOriginalToNew {
+  key: 4099870364494950048
+  value: 5431189430296085012
+}
+AssetIdsOriginalToNew {
+  key: 7167129097850921016
+  value: 8052345428973548728
+}
+AssetIdsOriginalToNew {
+  key: 7738151610292082207
+  value: 8290248617886459823
+}
+AssetIdsOriginalToNew {
+  key: 8417457865801319800
+  value: 8891967721895946022
+}
+AssetIdsOriginalToNew {
+  key: 9616824867024640312
+  value: 4308444456813397811
+}
+AssetIdsOriginalToNew {
+  key: 9859241474716524877
+  value: 13613113039460702784
+}
+AssetIdsOriginalToNew {
+  key: 10028733089879282645
+  value: 7352715271905697987
+}
+AssetIdsOriginalToNew {
+  key: 13842547444613038308
+  value: 16558067121403495276
+}
+AssetIdsOriginalToNew {
+  key: 13967323995701093802
+  value: 4205258928757561712
+}
+AssetIdsOriginalToNew {
+  key: 14171160606868712834
+  value: 4063037603915120302
+}
+AssetIdsOriginalToNew {
+  key: 15568030236913952250
+  value: 831064819008263470
+}
+AssetIdsOriginalToNew {
+  key: 17225893316933568901
+  value: 8544131485326488618
+}
+AssetIdsOriginalToNew {
+  key: 18053897261385960395
+  value: 2339729396903516867
+}

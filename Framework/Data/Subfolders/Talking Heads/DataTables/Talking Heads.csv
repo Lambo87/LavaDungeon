@@ -1,0 +1,6 @@
+"Key[String]","Name[String]","Message[String]","RandomMessages[Asset Reference]","Actor[Asset Reference]","PositionOffset[Vector3]","Stance[String]","Animation[String]","AnimationDelay[Float]","AnimationLoop[Bool]","Audio[Asset Reference]","DisplayDuration[Float]","PanelWidth[Float]","PanelHeight[Float]"
+"Karl Laugh","Prince TEDATHOR","You think you can beat me {name}?
+
+I am too powerful for you. I can not be beat.","0BADBADBADBADBAD","66BB25881AE9018C","0.000000,0.000000,0.000000","","unarmed_laugh","1.0","False","D413F707633F1C96","7.0","0.0","0.0"
+"Wolfy Growl","Wolfy","*Growl*","0BADBADBADBADBAD","DDD7F38E06A69154","-124.625999,0.000000,38.657001","","unarmed_bite","0.5","False","0BADBADBADBADBAD","0.0","0.0","0.0"
+"Welcome","Kamil","Welcome {name}, Defeat the 3 World bosses to open me and my brothers!","0BADBADBADBADBAD","C5F7387274032A3E","100.000000,0.000000,0.000000","","","0.0","False","0BADBADBADBADBAD","0.0","0.0","0.0"

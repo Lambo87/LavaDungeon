@@ -84,6 +84,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16990328679294699705
+  Name: "Urban Gravestone 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_gravestone_001_ref"
+  }
+}
+Assets {
   Id: 16933889644062321308
   Name: "Water Bubbling Loop 02 SFX"
   PlatformAssetType: 7
@@ -99,6 +108,15 @@ Assets {
   PrimaryAsset {
     AssetType: "SkeletonAssetRef"
     AssetId: "npc_guy_wireframe_001_ref"
+  }
+}
+Assets {
+  Id: 16910278292812118833
+  Name: "Sun Light"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_SunLight"
   }
 }
 Assets {
@@ -613,6 +631,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12344193518355455075
+  Name: "Star Dome"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_StarDome"
+  }
+}
+Assets {
   Id: 12307252604743719184
   Name: "Decal Soil Cracks Smal Variants 02"
   PlatformAssetType: 14
@@ -757,6 +784,15 @@ Assets {
         Value: "mc:enetreferencetype:creatorperk"
       }
     }
+  }
+}
+Assets {
+  Id: 11515840070784317904
+  Name: "Skylight"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Skylight"
   }
 }
 Assets {
@@ -1296,6 +1332,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_pipe_thick_lg_001_ref"
+  }
+}
+Assets {
+  Id: 7887238662729938253
+  Name: "Sky Dome"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Sky"
   }
 }
 Assets {
