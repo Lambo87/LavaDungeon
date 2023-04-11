@@ -911,6 +911,10 @@ Objects {
       Name: "cs:EnemyCount"
       Int: 7
     }
+    Overrides {
+      Name: "cs:AdditionalRadius"
+      Int: 2000
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"

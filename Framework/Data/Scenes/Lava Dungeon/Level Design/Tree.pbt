@@ -91,9 +91,12 @@ Objects {
   Name: "SafeZone Trigger"
   Transform {
     Location {
-      Z: -4120.17
+      X: -1932.03186
+      Y: 142.170517
+      Z: 95.2677917
     }
     Rotation {
+      Yaw: -9.02386475
     }
     Scale {
       X: 10
@@ -137,8 +140,8 @@ Objects {
   Name: "Spawn Point - PortalReturn"
   Transform {
     Location {
-      X: -893.086487
-      Y: 42.8835144
+      X: -1587.24268
+      Y: 221.757843
       Z: 115
     }
     Rotation {
@@ -183,8 +186,8 @@ Objects {
   Name: "Spawn Point - Social"
   Transform {
     Location {
-      X: -943.652649
-      Y: -435.938843
+      X: -1637.80884
+      Y: -5.80365
       Z: 115
     }
     Rotation {
